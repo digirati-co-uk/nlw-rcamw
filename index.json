@@ -1,0 +1,651 @@
+{
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/index.json",
+    "@type": "sc:Collection",
+    "attribution": "Attribution",
+    "description": "Description",
+    "label": "RCAMW",
+    "manifests": [
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/aberbechan.json",
+            "@type": "sc:Manifest",
+            "label": "aberbechan"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/back_lane.json",
+            "@type": "sc:Manifest",
+            "label": "back_lane"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/back_lane_car_park.json",
+            "@type": "sc:Manifest",
+            "label": "back_lane_car_park"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/bank_the.json",
+            "@type": "sc:Manifest",
+            "label": "bank_the"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/barn_lane.json",
+            "@type": "sc:Manifest",
+            "label": "barn_lane"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/bear_lanes.json",
+            "@type": "sc:Manifest",
+            "label": "bear_lanes"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/bear_lanes_units.json",
+            "@type": "sc:Manifest",
+            "label": "bear_lanes_units"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/beehive_lane.json",
+            "@type": "sc:Manifest",
+            "label": "beehive_lane"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/black_hall.json",
+            "@type": "sc:Manifest",
+            "label": "black_hall"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/brimmon_lane.json",
+            "@type": "sc:Manifest",
+            "label": "brimmon_lane"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/broad_street_east_side_elephant_to_old_church_street.json",
+            "@type": "sc:Manifest",
+            "label": "broad_street_east_side_elephant_to_old_church_street"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/broad_street_east_side_old_church_street_to_turners_lane.json",
+            "@type": "sc:Manifest",
+            "label": "broad_street_east_side_old_church_street_to_turners_lane"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/broad_street_east_side_turners_to_free_library.json",
+            "@type": "sc:Manifest",
+            "label": "broad_street_east_side_turners_to_free_library"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/broad_street_general_from_north.json",
+            "@type": "sc:Manifest",
+            "label": "broad_street_general_from_north"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/broad_street_general_from_south.json",
+            "@type": "sc:Manifest",
+            "label": "broad_street_general_from_south"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/broad_street_market_traders.json",
+            "@type": "sc:Manifest",
+            "label": "broad_street_market_traders"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/broad_street_west_side_wesley_street_to_longbridge.json",
+            "@type": "sc:Manifest",
+            "label": "broad_street_west_side_wesley_street_to_longbridge"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/brynglas_avenue.json",
+            "@type": "sc:Manifest",
+            "label": "brynglas_avenue"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/bryn_lane.json",
+            "@type": "sc:Manifest",
+            "label": "bryn_lane"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/bryn_street.json",
+            "@type": "sc:Manifest",
+            "label": "bryn_street"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/bryn_street_rhoswen.json",
+            "@type": "sc:Manifest",
+            "label": "bryn_street_rhoswen"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/butterfly_lane.json",
+            "@type": "sc:Manifest",
+            "label": "butterfly_lane"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/cambrian_bridge_box_1.json",
+            "@type": "sc:Manifest",
+            "label": "cambrian_bridge_box_1"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/cambrian_bridge_box_2.json",
+            "@type": "sc:Manifest",
+            "label": "cambrian_bridge_box_2"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/cambrian_bridge_site_before_construction.json",
+            "@type": "sc:Manifest",
+            "label": "cambrian_bridge_site_before_construction"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/cambrian_gardens.json",
+            "@type": "sc:Manifest",
+            "label": "cambrian_gardens"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/canal_road_frankwell_street_to_kymric_junction.json",
+            "@type": "sc:Manifest",
+            "label": "canal_road_frankwell_street_to_kymric_junction"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/canal_road_kymric_junction_to_tan-y-graig.json",
+            "@type": "sc:Manifest",
+            "label": "canal_road_kymric_junction_to_tan-y-graig"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/canal_the.json",
+            "@type": "sc:Manifest",
+            "label": "canal_the"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/chapel_street.json",
+            "@type": "sc:Manifest",
+            "label": "chapel_street"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/churchill_drive.json",
+            "@type": "sc:Manifest",
+            "label": "churchill_drive"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json",
+            "@type": "sc:Manifest",
+            "label": "clifton_park"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/commercial_street_south.json",
+            "@type": "sc:Manifest",
+            "label": "commercial_street_south"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/commercial_street__north.json",
+            "@type": "sc:Manifest",
+            "label": "commercial_street__north"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/crescent_street__the_crescent.json",
+            "@type": "sc:Manifest",
+            "label": "crescent_street__the_crescent"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/cross_the.json",
+            "@type": "sc:Manifest",
+            "label": "cross_the"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/crown_street_inc_st_marys_close.json",
+            "@type": "sc:Manifest",
+            "label": "crown_street_inc_st_marys_close"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolerw_park.json",
+            "@type": "sc:Manifest",
+            "label": "dolerw_park"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolerw_park_bridge.json",
+            "@type": "sc:Manifest",
+            "label": "dolerw_park_bridge"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json",
+            "@type": "sc:Manifest",
+            "label": "dolfor_rd"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd_middle.json",
+            "@type": "sc:Manifest",
+            "label": "dolfor_rd_middle"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd_top.json",
+            "@type": "sc:Manifest",
+            "label": "dolfor_rd_top"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dyffryn_estte.json",
+            "@type": "sc:Manifest",
+            "label": "dyffryn_estte"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/frankwell_st.json",
+            "@type": "sc:Manifest",
+            "label": "frankwell_st"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/frolic_st.json",
+            "@type": "sc:Manifest",
+            "label": "frolic_st"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/fron_lane.json",
+            "@type": "sc:Manifest",
+            "label": "fron_lane"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/garden_lane.json",
+            "@type": "sc:Manifest",
+            "label": "garden_lane"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/garth_owen.json",
+            "@type": "sc:Manifest",
+            "label": "garth_owen"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gas_street.json",
+            "@type": "sc:Manifest",
+            "label": "gas_street"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/golwgydre.json",
+            "@type": "sc:Manifest",
+            "label": "golwgydre"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json",
+            "@type": "sc:Manifest",
+            "label": "gravel_the"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/halfpenny_bridge.json",
+            "@type": "sc:Manifest",
+            "label": "halfpenny_bridge"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/high_st_1_north_side.json",
+            "@type": "sc:Manifest",
+            "label": "high_st_1_north_side"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/high_st_2_south_side.json",
+            "@type": "sc:Manifest",
+            "label": "high_st_2_south_side"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/high_st_3_general_from_east.json",
+            "@type": "sc:Manifest",
+            "label": "high_st_3_general_from_east"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/high_st_4_general_from_west.json",
+            "@type": "sc:Manifest",
+            "label": "high_st_4_general_from_west"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/high_st_5_market_traders.json",
+            "@type": "sc:Manifest",
+            "label": "high_st_5_market_traders"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/hillside_av.json",
+            "@type": "sc:Manifest",
+            "label": "hillside_av"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/kerry_rd_east.json",
+            "@type": "sc:Manifest",
+            "label": "kerry_rd_east"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/kerry_rd_west.json",
+            "@type": "sc:Manifest",
+            "label": "kerry_rd_west"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/ladywell_st.json",
+            "@type": "sc:Manifest",
+            "label": "ladywell_st"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanfair_rd.json",
+            "@type": "sc:Manifest",
+            "label": "llanfair_rd"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_n_side_top_fo_town_to_railway_bridge.json",
+            "@type": "sc:Manifest",
+            "label": "llanidloes_rd_n_side_top_fo_town_to_railway_bridge"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_s_side_top_of_town_to_railway_bridge.json",
+            "@type": "sc:Manifest",
+            "label": "llanidloes_rd_s_side_top_of_town_to_railway_bridge"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json",
+            "@type": "sc:Manifest",
+            "label": "llanidloes_rd_theatr_hafren_coleg_powys"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_road_railway_bridge_to_dulas.json",
+            "@type": "sc:Manifest",
+            "label": "llanidloes_road_railway_bridge_to_dulas"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanllwchaiarn.json",
+            "@type": "sc:Manifest",
+            "label": "llanllwchaiarn"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/longbridge.json",
+            "@type": "sc:Manifest",
+            "label": "longbridge"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/longbridge_st.json",
+            "@type": "sc:Manifest",
+            "label": "longbridge_st"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/lower_canal_rd.json",
+            "@type": "sc:Manifest",
+            "label": "lower_canal_rd"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/maesyrhandir.json",
+            "@type": "sc:Manifest",
+            "label": "maesyrhandir"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/market_st_n_side.json",
+            "@type": "sc:Manifest",
+            "label": "market_st_n_side"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/market_st_s_side.json",
+            "@type": "sc:Manifest",
+            "label": "market_st_s_side"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/milford_rd_n_side.json",
+            "@type": "sc:Manifest",
+            "label": "milford_rd_n_side"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/milford_rd_s_side.json",
+            "@type": "sc:Manifest",
+            "label": "milford_rd_s_side"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/mochdre_estate.json",
+            "@type": "sc:Manifest",
+            "label": "mochdre_estate"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/mochdre_lane.json",
+            "@type": "sc:Manifest",
+            "label": "mochdre_lane"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/newtownfrom_bryn_bank.json",
+            "@type": "sc:Manifest",
+            "label": "newtownfrom_bryn_bank"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/newtown_-_aerial.json",
+            "@type": "sc:Manifest",
+            "label": "newtown_-_aerial"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/newtown_from_kerry_hills.json",
+            "@type": "sc:Manifest",
+            "label": "newtown_from_kerry_hills"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/newtown_other.json",
+            "@type": "sc:Manifest",
+            "label": "newtown_other"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/new_church_st.json",
+            "@type": "sc:Manifest",
+            "label": "new_church_st"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/new_rd_n_side.json",
+            "@type": "sc:Manifest",
+            "label": "new_rd_n_side"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/new_rd_s_side_bmss_to_top_of_town.json",
+            "@type": "sc:Manifest",
+            "label": "new_rd_s_side_bmss_to_top_of_town"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/new_rd_s_side_kerry_rd_to_st_davids.json",
+            "@type": "sc:Manifest",
+            "label": "new_rd_s_side_kerry_rd_to_st_davids"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/old_church_st.json",
+            "@type": "sc:Manifest",
+            "label": "old_church_st"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/parkers_lane.json",
+            "@type": "sc:Manifest",
+            "label": "parkers_lane"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/park_lane.json",
+            "@type": "sc:Manifest",
+            "label": "park_lane"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/park_street_north_side.json",
+            "@type": "sc:Manifest",
+            "label": "park_street_north_side"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/park_st_s_side.json",
+            "@type": "sc:Manifest",
+            "label": "park_st_s_side"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/park_the.json",
+            "@type": "sc:Manifest",
+            "label": "park_the"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/park_the_newtown_hall.json",
+            "@type": "sc:Manifest",
+            "label": "park_the_newtown_hall"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/penygloddfa_school.json",
+            "@type": "sc:Manifest",
+            "label": "penygloddfa_school"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/plantation_lane.json",
+            "@type": "sc:Manifest",
+            "label": "plantation_lane"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_boundary_to_wern_ddu_lane_s_side.json",
+            "@type": "sc:Manifest",
+            "label": "pool_rd_boundary_to_wern_ddu_lane_s_side"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json",
+            "@type": "sc:Manifest",
+            "label": "pool_rd_laundry_site"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_queens_head_to_wern_ddu_lane_n_side.json",
+            "@type": "sc:Manifest",
+            "label": "pool_rd_queens_head_to_wern_ddu_lane_n_side"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_queens_head_to_wern_ddu_lane_s_side.json",
+            "@type": "sc:Manifest",
+            "label": "pool_rd_queens_head_to_wern_ddu_lane_s_side"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_wern_ddu_lane_to_boundary.json",
+            "@type": "sc:Manifest",
+            "label": "pool_rd_wern_ddu_lane_to_boundary"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/river_severn_cambrian_bridge_to_aberbechan.json",
+            "@type": "sc:Manifest",
+            "label": "river_severn_cambrian_bridge_to_aberbechan"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/river_severn_longbridge_to_cambrian_bridge.json",
+            "@type": "sc:Manifest",
+            "label": "river_severn_longbridge_to_cambrian_bridge"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/river_severn_penstrowed_to_long_bridge.json",
+            "@type": "sc:Manifest",
+            "label": "river_severn_penstrowed_to_long_bridge"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/severn_heights.json",
+            "@type": "sc:Manifest",
+            "label": "severn_heights"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json",
+            "@type": "sc:Manifest",
+            "label": "severn_square"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/severn_st.json",
+            "@type": "sc:Manifest",
+            "label": "severn_st"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/sewage_farm_lane.json",
+            "@type": "sc:Manifest",
+            "label": "sewage_farm_lane"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/sheaf_st.json",
+            "@type": "sc:Manifest",
+            "label": "sheaf_st"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/shortbridge_st_east_side.json",
+            "@type": "sc:Manifest",
+            "label": "shortbridge_st_east_side"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/shortbridge_st_west_side_cambrian_vaults_to_ladywell_st.json",
+            "@type": "sc:Manifest",
+            "label": "shortbridge_st_west_side_cambrian_vaults_to_ladywell_st"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/skinner_st.json",
+            "@type": "sc:Manifest",
+            "label": "skinner_st"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/station.json",
+            "@type": "sc:Manifest",
+            "label": "station"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/station_approach.json",
+            "@type": "sc:Manifest",
+            "label": "station_approach"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/station_yard.json",
+            "@type": "sc:Manifest",
+            "label": "station_yard"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/stone_st.json",
+            "@type": "sc:Manifest",
+            "label": "stone_st"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/stuff.json",
+            "@type": "sc:Manifest",
+            "label": "stuff"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/st_marys_church.json",
+            "@type": "sc:Manifest",
+            "label": "st_marys_church"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/st_marys_church_robert_owen_tomb.json",
+            "@type": "sc:Manifest",
+            "label": "st_marys_church_robert_owen_tomb"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/sycamore_drive.json",
+            "@type": "sc:Manifest",
+            "label": "sycamore_drive"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/trehafren.json",
+            "@type": "sc:Manifest",
+            "label": "trehafren"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/treowen.json",
+            "@type": "sc:Manifest",
+            "label": "treowen"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/turners_lane.json",
+            "@type": "sc:Manifest",
+            "label": "turners_lane"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json",
+            "@type": "sc:Manifest",
+            "label": "union_st"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/vastre_estate.json",
+            "@type": "sc:Manifest",
+            "label": "vastre_estate"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/vaynor.json",
+            "@type": "sc:Manifest",
+            "label": "vaynor"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/weir_st.json",
+            "@type": "sc:Manifest",
+            "label": "weir_st"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/wern_ddu_lane.json",
+            "@type": "sc:Manifest",
+            "label": "wern_ddu_lane"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/wesley_place.json",
+            "@type": "sc:Manifest",
+            "label": "wesley_place"
+        },
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/wesley_st.json",
+            "@type": "sc:Manifest",
+            "label": "wesley_st"
+        }
+    ],
+    "viewingHint": "top"
+}
