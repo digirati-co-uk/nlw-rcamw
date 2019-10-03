@@ -1,1469 +1,1491 @@
 {
-  "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json",
-  "@type": "sc:Manifest",
-  "metadata": [
-    {
-      "label": "Title",
-      "value": "Created by DLCS"
-    }
-  ],
-  "sequences": [
-    {
-      "@id": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0",
-      "@type": "sc:Sequence",
-      "label": "Sequence 0",
-      "canvases": [
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json",
+    "@type": "sc:Manifest",
+    "label": "pool_rd_laundry_site",
+    "metadata": [
         {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/1",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03901.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03901.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03901.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03901.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03901.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/1"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/2",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03902.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03902.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03902.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03902.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03902.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/2"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/3",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03903.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03903.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03903.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03903.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03903.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/3"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/4",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03904.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03904.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03904.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03904.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03904.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/4"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/5",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03905.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03905.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03905.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03905.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03905.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/5"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/6",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03906.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03906.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 744,
-              "height": 1024,
-              "sizes": [
-                {
-                  "width": 744,
-                  "height": 1024
-                },
-                {
-                  "width": 291,
-                  "height": 400
-                },
-                {
-                  "width": 145,
-                  "height": 200
-                },
-                {
-                  "width": 73,
-                  "height": 100
-                }
-              ]
-            }
-          },
-          "height": 3509,
-          "width": 2550,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03906.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03906.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 3509,
-                "width": 2550,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03906.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 3509,
-                  "width": 2550,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/6"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/7",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03907.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03907.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 744,
-              "height": 1024,
-              "sizes": [
-                {
-                  "width": 744,
-                  "height": 1024
-                },
-                {
-                  "width": 291,
-                  "height": 400
-                },
-                {
-                  "width": 145,
-                  "height": 200
-                },
-                {
-                  "width": 73,
-                  "height": 100
-                }
-              ]
-            }
-          },
-          "height": 3509,
-          "width": 2550,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03907.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03907.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 3509,
-                "width": 2550,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03907.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 3509,
-                  "width": 2550,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/7"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/8",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03908.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03908.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03908.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03908.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03908.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/8"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/9",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03909.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03909.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 744,
-              "height": 1024,
-              "sizes": [
-                {
-                  "width": 744,
-                  "height": 1024
-                },
-                {
-                  "width": 291,
-                  "height": 400
-                },
-                {
-                  "width": 145,
-                  "height": 200
-                },
-                {
-                  "width": 73,
-                  "height": 100
-                }
-              ]
-            }
-          },
-          "height": 3509,
-          "width": 2550,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03909.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03909.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 3509,
-                "width": 2550,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03909.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 3509,
-                  "width": 2550,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/9"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/10",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03910.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03910.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03910.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03910.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03910.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/10"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/11",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03911.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03911.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03911.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03911.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03911.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/11"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/12",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03912.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03912.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03912.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03912.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03912.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/12"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/13",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03913.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03913.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 744,
-              "height": 1024,
-              "sizes": [
-                {
-                  "width": 744,
-                  "height": 1024
-                },
-                {
-                  "width": 291,
-                  "height": 400
-                },
-                {
-                  "width": 145,
-                  "height": 200
-                },
-                {
-                  "width": 73,
-                  "height": 100
-                }
-              ]
-            }
-          },
-          "height": 3509,
-          "width": 2550,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03913.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03913.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 3509,
-                "width": 2550,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03913.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 3509,
-                  "width": 2550,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/13"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/14",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03914.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03914.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03914.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03914.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03914.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/14"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/15",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03915.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03915.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03915.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03915.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03915.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/15"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/16",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03916.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03916.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03916.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03916.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03916.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/16"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/17",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03917.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03917.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03917.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03917.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03917.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/17"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/18",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03918.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03918.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03918.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03918.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03918.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/18"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/19",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03919.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03919.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03919.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03919.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03919.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/19"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/20",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03920.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03920.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03920.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03920.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03920.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/20"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/21",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03921.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03921.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03921.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03921.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03921.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/21"
-            }
-          ]
+            "label": "Title",
+            "value": "pool_rd_laundry_site"
         }
-      ]
-    }
-  ]
+    ],
+    "sequences": [
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/1",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03901.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/1",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03901.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03901.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP03901.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03901.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03901.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/2",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03902.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/2",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03902.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03902.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP03902.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03902.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03902.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/3",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03903.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/3",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03903.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03903.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP03903.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03903.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03903.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/4",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03904.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/4",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03904.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03904.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP03904.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03904.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03904.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/5",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03905.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/5",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03905.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03905.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP03905.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03905.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03905.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/6",
+                    "@type": "sc:Canvas",
+                    "height": 3509,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03906.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/6",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03906.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 3509,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03906.tif",
+                                    "height": 3509,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 2550
+                                },
+                                "width": 2550
+                            }
+                        }
+                    ],
+                    "label": "DP03906.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03906.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03906.tif",
+                            "height": 1024,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 1024,
+                                    "width": 744
+                                },
+                                {
+                                    "height": 400,
+                                    "width": 291
+                                },
+                                {
+                                    "height": 200,
+                                    "width": 145
+                                },
+                                {
+                                    "height": 100,
+                                    "width": 73
+                                }
+                            ],
+                            "width": 744
+                        }
+                    },
+                    "width": 2550
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/7",
+                    "@type": "sc:Canvas",
+                    "height": 3509,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03907.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/7",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03907.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 3509,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03907.tif",
+                                    "height": 3509,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 2550
+                                },
+                                "width": 2550
+                            }
+                        }
+                    ],
+                    "label": "DP03907.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03907.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03907.tif",
+                            "height": 1024,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 1024,
+                                    "width": 744
+                                },
+                                {
+                                    "height": 400,
+                                    "width": 291
+                                },
+                                {
+                                    "height": 200,
+                                    "width": 145
+                                },
+                                {
+                                    "height": 100,
+                                    "width": 73
+                                }
+                            ],
+                            "width": 744
+                        }
+                    },
+                    "width": 2550
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/8",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03908.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/8",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03908.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03908.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP03908.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03908.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03908.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/9",
+                    "@type": "sc:Canvas",
+                    "height": 3509,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03909.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/9",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03909.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 3509,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03909.tif",
+                                    "height": 3509,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 2550
+                                },
+                                "width": 2550
+                            }
+                        }
+                    ],
+                    "label": "DP03909.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03909.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03909.tif",
+                            "height": 1024,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 1024,
+                                    "width": 744
+                                },
+                                {
+                                    "height": 400,
+                                    "width": 291
+                                },
+                                {
+                                    "height": 200,
+                                    "width": 145
+                                },
+                                {
+                                    "height": 100,
+                                    "width": 73
+                                }
+                            ],
+                            "width": 744
+                        }
+                    },
+                    "width": 2550
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/10",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03910.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/10",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03910.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03910.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP03910.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03910.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03910.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/11",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03911.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/11",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03911.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03911.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP03911.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03911.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03911.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/12",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03912.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/12",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03912.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03912.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP03912.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03912.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03912.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/13",
+                    "@type": "sc:Canvas",
+                    "height": 3509,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03913.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/13",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03913.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 3509,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03913.tif",
+                                    "height": 3509,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 2550
+                                },
+                                "width": 2550
+                            }
+                        }
+                    ],
+                    "label": "DP03913.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03913.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03913.tif",
+                            "height": 1024,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 1024,
+                                    "width": 744
+                                },
+                                {
+                                    "height": 400,
+                                    "width": 291
+                                },
+                                {
+                                    "height": 200,
+                                    "width": 145
+                                },
+                                {
+                                    "height": 100,
+                                    "width": 73
+                                }
+                            ],
+                            "width": 744
+                        }
+                    },
+                    "width": 2550
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/14",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03914.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/14",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03914.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03914.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP03914.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03914.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03914.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/15",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03915.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/15",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03915.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03915.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP03915.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03915.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03915.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/16",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03916.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/16",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03916.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03916.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP03916.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03916.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03916.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/17",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03917.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/17",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03917.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03917.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP03917.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03917.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03917.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/18",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03918.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/18",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03918.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03918.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP03918.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03918.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03918.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/19",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03919.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/19",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03919.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03919.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP03919.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03919.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03919.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/20",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03920.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/20",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03920.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03920.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP03920.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03920.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03920.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/21",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03921.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/pool_rd_laundry_site.json/sequence/0/canvas/21",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03921.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/pool_rd_laundry_site_DP03921.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP03921.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03921.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/pool_rd_laundry_site_DP03921.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                }
+            ],
+            "label": "Sequence 0"
+        }
+    ]
 }

@@ -1,1469 +1,1491 @@
 {
-  "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json",
-  "@type": "sc:Manifest",
-  "metadata": [
-    {
-      "label": "Title",
-      "value": "Created by DLCS"
-    }
-  ],
-  "sequences": [
-    {
-      "@id": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0",
-      "@type": "sc:Sequence",
-      "label": "Sequence 0",
-      "canvases": [
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json",
+    "@type": "sc:Manifest",
+    "label": "union_st",
+    "metadata": [
         {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/1",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/union_st_DP04477.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/union_st_DP04477.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 744,
-              "height": 1024,
-              "sizes": [
-                {
-                  "width": 744,
-                  "height": 1024
-                },
-                {
-                  "width": 291,
-                  "height": 400
-                },
-                {
-                  "width": 145,
-                  "height": 200
-                },
-                {
-                  "width": 73,
-                  "height": 100
-                }
-              ]
-            }
-          },
-          "height": 3509,
-          "width": 2550,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04477.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04477.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 3509,
-                "width": 2550,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04477.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 3509,
-                  "width": 2550,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/1"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/2",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/union_st_DP04478.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/union_st_DP04478.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04478.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04478.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04478.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/2"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/3",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/union_st_DP04479.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/union_st_DP04479.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04479.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04479.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04479.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/3"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/4",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/union_st_DP04480.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/union_st_DP04480.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 744,
-              "height": 1024,
-              "sizes": [
-                {
-                  "width": 744,
-                  "height": 1024
-                },
-                {
-                  "width": 291,
-                  "height": 400
-                },
-                {
-                  "width": 145,
-                  "height": 200
-                },
-                {
-                  "width": 73,
-                  "height": 100
-                }
-              ]
-            }
-          },
-          "height": 3509,
-          "width": 2550,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04480.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04480.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 3509,
-                "width": 2550,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04480.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 3509,
-                  "width": 2550,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/4"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/5",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/union_st_DP04481.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/union_st_DP04481.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04481.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04481.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04481.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/5"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/6",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/union_st_DP04482.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/union_st_DP04482.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04482.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04482.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04482.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/6"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/7",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/union_st_DP04483.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/union_st_DP04483.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 744,
-              "height": 1024,
-              "sizes": [
-                {
-                  "width": 744,
-                  "height": 1024
-                },
-                {
-                  "width": 291,
-                  "height": 400
-                },
-                {
-                  "width": 145,
-                  "height": 200
-                },
-                {
-                  "width": 73,
-                  "height": 100
-                }
-              ]
-            }
-          },
-          "height": 3509,
-          "width": 2550,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04483.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04483.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 3509,
-                "width": 2550,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04483.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 3509,
-                  "width": 2550,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/7"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/8",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/union_st_DP04484.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/union_st_DP04484.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04484.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04484.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04484.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/8"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/9",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/union_st_DP04485.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/union_st_DP04485.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04485.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04485.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04485.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/9"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/10",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/union_st_DP04486.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/union_st_DP04486.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04486.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04486.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04486.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/10"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/11",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/union_st_DP04487.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/union_st_DP04487.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04487.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04487.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04487.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/11"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/12",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/union_st_DP04488.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/union_st_DP04488.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04488.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04488.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04488.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/12"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/13",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/union_st_DP04489.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/union_st_DP04489.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04489.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04489.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04489.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/13"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/14",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/union_st_DP04490.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/union_st_DP04490.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 744,
-              "height": 1024,
-              "sizes": [
-                {
-                  "width": 744,
-                  "height": 1024
-                },
-                {
-                  "width": 291,
-                  "height": 400
-                },
-                {
-                  "width": 145,
-                  "height": 200
-                },
-                {
-                  "width": 73,
-                  "height": 100
-                }
-              ]
-            }
-          },
-          "height": 3509,
-          "width": 2550,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04490.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04490.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 3509,
-                "width": 2550,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04490.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 3509,
-                  "width": 2550,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/14"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/15",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/union_st_DP04491.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/union_st_DP04491.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04491.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04491.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04491.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/15"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/16",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/union_st_DP04492.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/union_st_DP04492.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04492.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04492.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04492.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/16"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/17",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/union_st_DP04493.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/union_st_DP04493.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04493.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04493.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04493.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/17"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/18",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/union_st_DP04494.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/union_st_DP04494.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 744,
-              "height": 1024,
-              "sizes": [
-                {
-                  "width": 744,
-                  "height": 1024
-                },
-                {
-                  "width": 291,
-                  "height": 400
-                },
-                {
-                  "width": 145,
-                  "height": 200
-                },
-                {
-                  "width": 73,
-                  "height": 100
-                }
-              ]
-            }
-          },
-          "height": 3509,
-          "width": 2550,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04494.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04494.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 3509,
-                "width": 2550,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04494.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 3509,
-                  "width": 2550,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/18"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/19",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/union_st_DP04495.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/union_st_DP04495.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04495.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04495.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04495.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/19"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/20",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/union_st_DP04496.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/union_st_DP04496.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04496.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04496.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04496.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/20"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/21",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/union_st_DP04497.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/union_st_DP04497.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04497.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04497.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04497.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/21"
-            }
-          ]
+            "label": "Title",
+            "value": "union_st"
         }
-      ]
-    }
-  ]
+    ],
+    "sequences": [
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/1",
+                    "@type": "sc:Canvas",
+                    "height": 3509,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04477.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/1",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04477.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 3509,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04477.tif",
+                                    "height": 3509,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 2550
+                                },
+                                "width": 2550
+                            }
+                        }
+                    ],
+                    "label": "DP04477.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/union_st_DP04477.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/union_st_DP04477.tif",
+                            "height": 1024,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 1024,
+                                    "width": 744
+                                },
+                                {
+                                    "height": 400,
+                                    "width": 291
+                                },
+                                {
+                                    "height": 200,
+                                    "width": 145
+                                },
+                                {
+                                    "height": 100,
+                                    "width": 73
+                                }
+                            ],
+                            "width": 744
+                        }
+                    },
+                    "width": 2550
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/2",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04478.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/2",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04478.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04478.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP04478.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/union_st_DP04478.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/union_st_DP04478.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/3",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04479.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/3",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04479.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04479.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP04479.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/union_st_DP04479.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/union_st_DP04479.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/4",
+                    "@type": "sc:Canvas",
+                    "height": 3509,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04480.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/4",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04480.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 3509,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04480.tif",
+                                    "height": 3509,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 2550
+                                },
+                                "width": 2550
+                            }
+                        }
+                    ],
+                    "label": "DP04480.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/union_st_DP04480.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/union_st_DP04480.tif",
+                            "height": 1024,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 1024,
+                                    "width": 744
+                                },
+                                {
+                                    "height": 400,
+                                    "width": 291
+                                },
+                                {
+                                    "height": 200,
+                                    "width": 145
+                                },
+                                {
+                                    "height": 100,
+                                    "width": 73
+                                }
+                            ],
+                            "width": 744
+                        }
+                    },
+                    "width": 2550
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/5",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04481.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/5",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04481.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04481.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP04481.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/union_st_DP04481.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/union_st_DP04481.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/6",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04482.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/6",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04482.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04482.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP04482.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/union_st_DP04482.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/union_st_DP04482.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/7",
+                    "@type": "sc:Canvas",
+                    "height": 3509,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04483.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/7",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04483.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 3509,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04483.tif",
+                                    "height": 3509,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 2550
+                                },
+                                "width": 2550
+                            }
+                        }
+                    ],
+                    "label": "DP04483.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/union_st_DP04483.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/union_st_DP04483.tif",
+                            "height": 1024,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 1024,
+                                    "width": 744
+                                },
+                                {
+                                    "height": 400,
+                                    "width": 291
+                                },
+                                {
+                                    "height": 200,
+                                    "width": 145
+                                },
+                                {
+                                    "height": 100,
+                                    "width": 73
+                                }
+                            ],
+                            "width": 744
+                        }
+                    },
+                    "width": 2550
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/8",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04484.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/8",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04484.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04484.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP04484.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/union_st_DP04484.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/union_st_DP04484.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/9",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04485.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/9",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04485.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04485.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP04485.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/union_st_DP04485.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/union_st_DP04485.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/10",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04486.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/10",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04486.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04486.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP04486.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/union_st_DP04486.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/union_st_DP04486.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/11",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04487.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/11",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04487.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04487.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP04487.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/union_st_DP04487.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/union_st_DP04487.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/12",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04488.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/12",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04488.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04488.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP04488.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/union_st_DP04488.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/union_st_DP04488.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/13",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04489.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/13",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04489.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04489.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP04489.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/union_st_DP04489.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/union_st_DP04489.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/14",
+                    "@type": "sc:Canvas",
+                    "height": 3509,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04490.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/14",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04490.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 3509,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04490.tif",
+                                    "height": 3509,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 2550
+                                },
+                                "width": 2550
+                            }
+                        }
+                    ],
+                    "label": "DP04490.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/union_st_DP04490.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/union_st_DP04490.tif",
+                            "height": 1024,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 1024,
+                                    "width": 744
+                                },
+                                {
+                                    "height": 400,
+                                    "width": 291
+                                },
+                                {
+                                    "height": 200,
+                                    "width": 145
+                                },
+                                {
+                                    "height": 100,
+                                    "width": 73
+                                }
+                            ],
+                            "width": 744
+                        }
+                    },
+                    "width": 2550
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/15",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04491.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/15",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04491.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04491.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP04491.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/union_st_DP04491.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/union_st_DP04491.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/16",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04492.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/16",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04492.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04492.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP04492.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/union_st_DP04492.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/union_st_DP04492.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/17",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04493.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/17",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04493.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04493.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP04493.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/union_st_DP04493.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/union_st_DP04493.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/18",
+                    "@type": "sc:Canvas",
+                    "height": 3509,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04494.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/18",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04494.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 3509,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04494.tif",
+                                    "height": 3509,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 2550
+                                },
+                                "width": 2550
+                            }
+                        }
+                    ],
+                    "label": "DP04494.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/union_st_DP04494.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/union_st_DP04494.tif",
+                            "height": 1024,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 1024,
+                                    "width": 744
+                                },
+                                {
+                                    "height": 400,
+                                    "width": 291
+                                },
+                                {
+                                    "height": 200,
+                                    "width": 145
+                                },
+                                {
+                                    "height": 100,
+                                    "width": 73
+                                }
+                            ],
+                            "width": 744
+                        }
+                    },
+                    "width": 2550
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/19",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04495.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/19",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04495.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04495.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP04495.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/union_st_DP04495.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/union_st_DP04495.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/20",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04496.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/20",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04496.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04496.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP04496.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/union_st_DP04496.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/union_st_DP04496.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/21",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04497.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/union_st.json/sequence/0/canvas/21",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04497.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/union_st_DP04497.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP04497.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/union_st_DP04497.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/union_st_DP04497.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                }
+            ],
+            "label": "Sequence 0"
+        }
+    ]
 }

@@ -1,2090 +1,2121 @@
 {
-  "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json",
-  "@type": "sc:Manifest",
-  "metadata": [
-    {
-      "label": "Title",
-      "value": "Created by DLCS"
-    }
-  ],
-  "sequences": [
-    {
-      "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0",
-      "@type": "sc:Sequence",
-      "label": "Sequence 0",
-      "canvases": [
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json",
+    "@type": "sc:Manifest",
+    "label": "gravel_the",
+    "metadata": [
         {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/1",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02076.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02076.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 744,
-              "height": 1024,
-              "sizes": [
-                {
-                  "width": 744,
-                  "height": 1024
-                },
-                {
-                  "width": 291,
-                  "height": 400
-                },
-                {
-                  "width": 145,
-                  "height": 200
-                },
-                {
-                  "width": 73,
-                  "height": 100
-                }
-              ]
-            }
-          },
-          "height": 3509,
-          "width": 2550,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02076.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02076.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 3509,
-                "width": 2550,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02076.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 3509,
-                  "width": 2550,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/1"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/2",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02077.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02077.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02077.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02077.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02077.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/2"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/3",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02078.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02078.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02078.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02078.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02078.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/3"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/4",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02079.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02079.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02079.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02079.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02079.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/4"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/5",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02080.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02080.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02080.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02080.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02080.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/5"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/6",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02081.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02081.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 744,
-              "height": 1024,
-              "sizes": [
-                {
-                  "width": 744,
-                  "height": 1024
-                },
-                {
-                  "width": 291,
-                  "height": 400
-                },
-                {
-                  "width": 145,
-                  "height": 200
-                },
-                {
-                  "width": 73,
-                  "height": 100
-                }
-              ]
-            }
-          },
-          "height": 3509,
-          "width": 2550,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02081.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02081.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 3509,
-                "width": 2550,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02081.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 3509,
-                  "width": 2550,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/6"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/7",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02082.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02082.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02082.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02082.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02082.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/7"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/8",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02083.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02083.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02083.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02083.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02083.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/8"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/9",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02084.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02084.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02084.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02084.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02084.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/9"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/10",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02085.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02085.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02085.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02085.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02085.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/10"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/11",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02086.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02086.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02086.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02086.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02086.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/11"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/12",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02087.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02087.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02087.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02087.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02087.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/12"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/13",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02088.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02088.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02088.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02088.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02088.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/13"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/14",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02089.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02089.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 744,
-              "height": 1024,
-              "sizes": [
-                {
-                  "width": 744,
-                  "height": 1024
-                },
-                {
-                  "width": 291,
-                  "height": 400
-                },
-                {
-                  "width": 145,
-                  "height": 200
-                },
-                {
-                  "width": 73,
-                  "height": 100
-                }
-              ]
-            }
-          },
-          "height": 3509,
-          "width": 2550,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02089.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02089.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 3509,
-                "width": 2550,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02089.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 3509,
-                  "width": 2550,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/14"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/15",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02090.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02090.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 744,
-              "height": 1024,
-              "sizes": [
-                {
-                  "width": 744,
-                  "height": 1024
-                },
-                {
-                  "width": 291,
-                  "height": 400
-                },
-                {
-                  "width": 145,
-                  "height": 200
-                },
-                {
-                  "width": 73,
-                  "height": 100
-                }
-              ]
-            }
-          },
-          "height": 3509,
-          "width": 2550,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02090.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02090.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 3509,
-                "width": 2550,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02090.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 3509,
-                  "width": 2550,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/15"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/16",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02091.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02091.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 744,
-              "height": 1024,
-              "sizes": [
-                {
-                  "width": 744,
-                  "height": 1024
-                },
-                {
-                  "width": 291,
-                  "height": 400
-                },
-                {
-                  "width": 145,
-                  "height": 200
-                },
-                {
-                  "width": 73,
-                  "height": 100
-                }
-              ]
-            }
-          },
-          "height": 3509,
-          "width": 2550,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02091.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02091.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 3509,
-                "width": 2550,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02091.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 3509,
-                  "width": 2550,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/16"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/17",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02092.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02092.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02092.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02092.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02092.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/17"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/18",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02093.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02093.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02093.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02093.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02093.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/18"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/19",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02094.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02094.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02094.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02094.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02094.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/19"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/20",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02095.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02095.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02095.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02095.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02095.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/20"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/21",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02096.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02096.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02096.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02096.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02096.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/21"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/22",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02097.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02097.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02097.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02097.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02097.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/22"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/23",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02098.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02098.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 744,
-              "height": 1024,
-              "sizes": [
-                {
-                  "width": 744,
-                  "height": 1024
-                },
-                {
-                  "width": 291,
-                  "height": 400
-                },
-                {
-                  "width": 145,
-                  "height": 200
-                },
-                {
-                  "width": 73,
-                  "height": 100
-                }
-              ]
-            }
-          },
-          "height": 3509,
-          "width": 2550,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02098.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02098.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 3509,
-                "width": 2550,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02098.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 3509,
-                  "width": 2550,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/23"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/24",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02099.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02099.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02099.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02099.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02099.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/24"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/25",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02100.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02100.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02100.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02100.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02100.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/25"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/26",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02101.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02101.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02101.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02101.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02101.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/26"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/27",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02102.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02102.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02102.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02102.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02102.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/27"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/28",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02103.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02103.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02103.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02103.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02103.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/28"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/29",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02104.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02104.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02104.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02104.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02104.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/29"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/30",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02105.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02105.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02105.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02105.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02105.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/30"
-            }
-          ]
+            "label": "Title",
+            "value": "gravel_the"
         }
-      ]
-    }
-  ]
+    ],
+    "sequences": [
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/1",
+                    "@type": "sc:Canvas",
+                    "height": 3509,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02076.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/1",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02076.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 3509,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02076.tif",
+                                    "height": 3509,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 2550
+                                },
+                                "width": 2550
+                            }
+                        }
+                    ],
+                    "label": "DP02076.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02076.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02076.tif",
+                            "height": 1024,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 1024,
+                                    "width": 744
+                                },
+                                {
+                                    "height": 400,
+                                    "width": 291
+                                },
+                                {
+                                    "height": 200,
+                                    "width": 145
+                                },
+                                {
+                                    "height": 100,
+                                    "width": 73
+                                }
+                            ],
+                            "width": 744
+                        }
+                    },
+                    "width": 2550
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/2",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02077.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/2",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02077.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02077.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP02077.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02077.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02077.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/3",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02078.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/3",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02078.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02078.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP02078.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02078.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02078.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/4",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02079.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/4",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02079.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02079.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP02079.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02079.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02079.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/5",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02080.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/5",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02080.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02080.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP02080.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02080.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02080.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/6",
+                    "@type": "sc:Canvas",
+                    "height": 3509,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02081.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/6",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02081.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 3509,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02081.tif",
+                                    "height": 3509,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 2550
+                                },
+                                "width": 2550
+                            }
+                        }
+                    ],
+                    "label": "DP02081.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02081.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02081.tif",
+                            "height": 1024,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 1024,
+                                    "width": 744
+                                },
+                                {
+                                    "height": 400,
+                                    "width": 291
+                                },
+                                {
+                                    "height": 200,
+                                    "width": 145
+                                },
+                                {
+                                    "height": 100,
+                                    "width": 73
+                                }
+                            ],
+                            "width": 744
+                        }
+                    },
+                    "width": 2550
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/7",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02082.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/7",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02082.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02082.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP02082.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02082.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02082.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/8",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02083.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/8",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02083.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02083.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP02083.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02083.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02083.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/9",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02084.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/9",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02084.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02084.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP02084.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02084.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02084.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/10",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02085.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/10",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02085.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02085.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP02085.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02085.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02085.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/11",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02086.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/11",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02086.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02086.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP02086.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02086.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02086.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/12",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02087.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/12",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02087.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02087.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP02087.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02087.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02087.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/13",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02088.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/13",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02088.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02088.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP02088.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02088.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02088.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/14",
+                    "@type": "sc:Canvas",
+                    "height": 3509,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02089.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/14",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02089.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 3509,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02089.tif",
+                                    "height": 3509,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 2550
+                                },
+                                "width": 2550
+                            }
+                        }
+                    ],
+                    "label": "DP02089.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02089.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02089.tif",
+                            "height": 1024,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 1024,
+                                    "width": 744
+                                },
+                                {
+                                    "height": 400,
+                                    "width": 291
+                                },
+                                {
+                                    "height": 200,
+                                    "width": 145
+                                },
+                                {
+                                    "height": 100,
+                                    "width": 73
+                                }
+                            ],
+                            "width": 744
+                        }
+                    },
+                    "width": 2550
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/15",
+                    "@type": "sc:Canvas",
+                    "height": 3509,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02090.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/15",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02090.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 3509,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02090.tif",
+                                    "height": 3509,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 2550
+                                },
+                                "width": 2550
+                            }
+                        }
+                    ],
+                    "label": "DP02090.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02090.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02090.tif",
+                            "height": 1024,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 1024,
+                                    "width": 744
+                                },
+                                {
+                                    "height": 400,
+                                    "width": 291
+                                },
+                                {
+                                    "height": 200,
+                                    "width": 145
+                                },
+                                {
+                                    "height": 100,
+                                    "width": 73
+                                }
+                            ],
+                            "width": 744
+                        }
+                    },
+                    "width": 2550
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/16",
+                    "@type": "sc:Canvas",
+                    "height": 3509,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02091.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/16",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02091.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 3509,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02091.tif",
+                                    "height": 3509,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 2550
+                                },
+                                "width": 2550
+                            }
+                        }
+                    ],
+                    "label": "DP02091.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02091.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02091.tif",
+                            "height": 1024,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 1024,
+                                    "width": 744
+                                },
+                                {
+                                    "height": 400,
+                                    "width": 291
+                                },
+                                {
+                                    "height": 200,
+                                    "width": 145
+                                },
+                                {
+                                    "height": 100,
+                                    "width": 73
+                                }
+                            ],
+                            "width": 744
+                        }
+                    },
+                    "width": 2550
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/17",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02092.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/17",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02092.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02092.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP02092.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02092.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02092.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/18",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02093.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/18",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02093.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02093.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP02093.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02093.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02093.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/19",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02094.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/19",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02094.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02094.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP02094.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02094.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02094.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/20",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02095.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/20",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02095.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02095.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP02095.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02095.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02095.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/21",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02096.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/21",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02096.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02096.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP02096.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02096.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02096.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/22",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02097.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/22",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02097.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02097.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP02097.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02097.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02097.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/23",
+                    "@type": "sc:Canvas",
+                    "height": 3509,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02098.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/23",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02098.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 3509,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02098.tif",
+                                    "height": 3509,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 2550
+                                },
+                                "width": 2550
+                            }
+                        }
+                    ],
+                    "label": "DP02098.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02098.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02098.tif",
+                            "height": 1024,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 1024,
+                                    "width": 744
+                                },
+                                {
+                                    "height": 400,
+                                    "width": 291
+                                },
+                                {
+                                    "height": 200,
+                                    "width": 145
+                                },
+                                {
+                                    "height": 100,
+                                    "width": 73
+                                }
+                            ],
+                            "width": 744
+                        }
+                    },
+                    "width": 2550
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/24",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02099.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/24",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02099.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02099.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP02099.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02099.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02099.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/25",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02100.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/25",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02100.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02100.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP02100.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02100.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02100.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/26",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02101.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/26",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02101.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02101.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP02101.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02101.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02101.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/27",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02102.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/27",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02102.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02102.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP02102.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02102.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02102.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/28",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02103.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/28",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02103.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02103.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP02103.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02103.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02103.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/29",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02104.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/29",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02104.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02104.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP02104.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02104.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02104.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/30",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02105.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/gravel_the.json/sequence/0/canvas/30",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02105.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/gravel_the_DP02105.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP02105.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02105.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/gravel_the_DP02105.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                }
+            ],
+            "label": "Sequence 0"
+        }
+    ]
 }

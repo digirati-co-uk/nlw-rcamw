@@ -1,2090 +1,2121 @@
 {
-  "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json",
-  "@type": "sc:Manifest",
-  "metadata": [
-    {
-      "label": "Title",
-      "value": "Created by DLCS"
-    }
-  ],
-  "sequences": [
-    {
-      "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0",
-      "@type": "sc:Sequence",
-      "label": "Sequence 0",
-      "canvases": [
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json",
+    "@type": "sc:Manifest",
+    "label": "llanidloes_rd_theatr_hafren_coleg_powys",
+    "metadata": [
         {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/1",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02817.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02817.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02817.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02817.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02817.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/1"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/2",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02818.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02818.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02818.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02818.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02818.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/2"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/3",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02819.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02819.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 744,
-              "height": 1024,
-              "sizes": [
-                {
-                  "width": 744,
-                  "height": 1024
-                },
-                {
-                  "width": 291,
-                  "height": 400
-                },
-                {
-                  "width": 145,
-                  "height": 200
-                },
-                {
-                  "width": 73,
-                  "height": 100
-                }
-              ]
-            }
-          },
-          "height": 3509,
-          "width": 2550,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02819.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02819.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 3509,
-                "width": 2550,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02819.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 3509,
-                  "width": 2550,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/3"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/4",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02820.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02820.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02820.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02820.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02820.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/4"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/5",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02821.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02821.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02821.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02821.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02821.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/5"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/6",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02822.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02822.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02822.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02822.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02822.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/6"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/7",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02823.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02823.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02823.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02823.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02823.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/7"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/8",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02824.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02824.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02824.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02824.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02824.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/8"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/9",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02825.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02825.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02825.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02825.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02825.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/9"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/10",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02826.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02826.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02826.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02826.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02826.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/10"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/11",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02827.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02827.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02827.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02827.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02827.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/11"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/12",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02828.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02828.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02828.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02828.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02828.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/12"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/13",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02829.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02829.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02829.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02829.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02829.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/13"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/14",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02830.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02830.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02830.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02830.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02830.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/14"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/15",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02831.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02831.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02831.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02831.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02831.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/15"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/16",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02832.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02832.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02832.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02832.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02832.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/16"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/17",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02833.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02833.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02833.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02833.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02833.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/17"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/18",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02834.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02834.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02834.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02834.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02834.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/18"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/19",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02835.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02835.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02835.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02835.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02835.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/19"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/20",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02836.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02836.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02836.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02836.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02836.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/20"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/21",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02837.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02837.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02837.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02837.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02837.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/21"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/22",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02838.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02838.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02838.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02838.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02838.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/22"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/23",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02839.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02839.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 744,
-              "height": 1024,
-              "sizes": [
-                {
-                  "width": 744,
-                  "height": 1024
-                },
-                {
-                  "width": 291,
-                  "height": 400
-                },
-                {
-                  "width": 145,
-                  "height": 200
-                },
-                {
-                  "width": 73,
-                  "height": 100
-                }
-              ]
-            }
-          },
-          "height": 3509,
-          "width": 2550,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02839.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02839.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 3509,
-                "width": 2550,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02839.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 3509,
-                  "width": 2550,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/23"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/24",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02840.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02840.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02840.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02840.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02840.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/24"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/25",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02841.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02841.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02841.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02841.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02841.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/25"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/26",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02842.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02842.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02842.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02842.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02842.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/26"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/27",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02843.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02843.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02843.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02843.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02843.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/27"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/28",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02844.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02844.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02844.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02844.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02844.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/28"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/29",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02845.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02845.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02845.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02845.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02845.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/29"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/30",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02846.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02846.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02846.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02846.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02846.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/30"
-            }
-          ]
+            "label": "Title",
+            "value": "llanidloes_rd_theatr_hafren_coleg_powys"
         }
-      ]
-    }
-  ]
+    ],
+    "sequences": [
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/1",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02817.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/1",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02817.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02817.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP02817.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02817.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02817.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/2",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02818.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/2",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02818.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02818.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP02818.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02818.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02818.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/3",
+                    "@type": "sc:Canvas",
+                    "height": 3509,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02819.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/3",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02819.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 3509,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02819.tif",
+                                    "height": 3509,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 2550
+                                },
+                                "width": 2550
+                            }
+                        }
+                    ],
+                    "label": "DP02819.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02819.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02819.tif",
+                            "height": 1024,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 1024,
+                                    "width": 744
+                                },
+                                {
+                                    "height": 400,
+                                    "width": 291
+                                },
+                                {
+                                    "height": 200,
+                                    "width": 145
+                                },
+                                {
+                                    "height": 100,
+                                    "width": 73
+                                }
+                            ],
+                            "width": 744
+                        }
+                    },
+                    "width": 2550
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/4",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02820.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/4",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02820.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02820.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP02820.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02820.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02820.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/5",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02821.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/5",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02821.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02821.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP02821.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02821.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02821.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/6",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02822.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/6",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02822.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02822.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP02822.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02822.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02822.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/7",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02823.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/7",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02823.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02823.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP02823.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02823.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02823.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/8",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02824.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/8",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02824.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02824.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP02824.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02824.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02824.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/9",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02825.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/9",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02825.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02825.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP02825.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02825.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02825.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/10",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02826.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/10",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02826.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02826.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP02826.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02826.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02826.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/11",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02827.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/11",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02827.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02827.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP02827.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02827.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02827.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/12",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02828.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/12",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02828.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02828.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP02828.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02828.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02828.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/13",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02829.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/13",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02829.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02829.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP02829.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02829.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02829.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/14",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02830.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/14",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02830.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02830.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP02830.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02830.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02830.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/15",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02831.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/15",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02831.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02831.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP02831.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02831.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02831.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/16",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02832.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/16",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02832.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02832.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP02832.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02832.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02832.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/17",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02833.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/17",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02833.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02833.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP02833.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02833.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02833.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/18",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02834.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/18",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02834.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02834.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP02834.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02834.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02834.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/19",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02835.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/19",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02835.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02835.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP02835.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02835.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02835.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/20",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02836.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/20",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02836.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02836.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP02836.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02836.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02836.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/21",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02837.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/21",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02837.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02837.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP02837.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02837.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02837.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/22",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02838.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/22",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02838.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02838.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP02838.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02838.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02838.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/23",
+                    "@type": "sc:Canvas",
+                    "height": 3509,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02839.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/23",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02839.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 3509,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02839.tif",
+                                    "height": 3509,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 2550
+                                },
+                                "width": 2550
+                            }
+                        }
+                    ],
+                    "label": "DP02839.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02839.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02839.tif",
+                            "height": 1024,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 1024,
+                                    "width": 744
+                                },
+                                {
+                                    "height": 400,
+                                    "width": 291
+                                },
+                                {
+                                    "height": 200,
+                                    "width": 145
+                                },
+                                {
+                                    "height": 100,
+                                    "width": 73
+                                }
+                            ],
+                            "width": 744
+                        }
+                    },
+                    "width": 2550
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/24",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02840.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/24",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02840.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02840.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP02840.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02840.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02840.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/25",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02841.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/25",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02841.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02841.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP02841.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02841.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02841.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/26",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02842.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/26",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02842.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02842.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP02842.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02842.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02842.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/27",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02843.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/27",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02843.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02843.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP02843.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02843.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02843.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/28",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02844.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/28",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02844.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02844.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP02844.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02844.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02844.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/29",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02845.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/29",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02845.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02845.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP02845.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02845.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02845.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/30",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02846.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/llanidloes_rd_theatr_hafren_coleg_powys.json/sequence/0/canvas/30",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02846.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02846.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP02846.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02846.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/llanidloes_rd_theatr_hafren_coleg_powys_DP02846.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                }
+            ],
+            "label": "Sequence 0"
+        }
+    ]
 }

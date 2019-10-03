@@ -1,848 +1,861 @@
 {
-  "@context": "http://iiif.io/api/presentation/2/context.json",
-  "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolerw_park_bridge.json",
-  "@type": "sc:Manifest",
-  "metadata": [
-    {
-      "label": "Title",
-      "value": "Created by DLCS"
-    }
-  ],
-  "sequences": [
-    {
-      "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolerw_park_bridge.json/sequence/0",
-      "@type": "sc:Sequence",
-      "label": "Sequence 0",
-      "canvases": [
+    "@context": "http://iiif.io/api/presentation/2/context.json",
+    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolerw_park_bridge.json",
+    "@type": "sc:Manifest",
+    "label": "dolerw_park_bridge",
+    "metadata": [
         {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolerw_park_bridge.json/sequence/0/canvas/1",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/dolerw_park_bridge_DP01752.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/dolerw_park_bridge_DP01752.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01752.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01752.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01752.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolerw_park_bridge.json/sequence/0/canvas/1"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolerw_park_bridge.json/sequence/0/canvas/2",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/dolerw_park_bridge_DP01753.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/dolerw_park_bridge_DP01753.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01753.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01753.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01753.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolerw_park_bridge.json/sequence/0/canvas/2"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolerw_park_bridge.json/sequence/0/canvas/3",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/dolerw_park_bridge_DP01754.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/dolerw_park_bridge_DP01754.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01754.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01754.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01754.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolerw_park_bridge.json/sequence/0/canvas/3"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolerw_park_bridge.json/sequence/0/canvas/4",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/dolerw_park_bridge_DP01755.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/dolerw_park_bridge_DP01755.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01755.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01755.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01755.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolerw_park_bridge.json/sequence/0/canvas/4"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolerw_park_bridge.json/sequence/0/canvas/5",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/dolerw_park_bridge_DP01756.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/dolerw_park_bridge_DP01756.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 744,
-              "height": 1024,
-              "sizes": [
-                {
-                  "width": 744,
-                  "height": 1024
-                },
-                {
-                  "width": 291,
-                  "height": 400
-                },
-                {
-                  "width": 145,
-                  "height": 200
-                },
-                {
-                  "width": 73,
-                  "height": 100
-                }
-              ]
-            }
-          },
-          "height": 3509,
-          "width": 2550,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01756.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01756.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 3509,
-                "width": 2550,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01756.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 3509,
-                  "width": 2550,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolerw_park_bridge.json/sequence/0/canvas/5"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolerw_park_bridge.json/sequence/0/canvas/6",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/dolerw_park_bridge_DP01757.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/dolerw_park_bridge_DP01757.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01757.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01757.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01757.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolerw_park_bridge.json/sequence/0/canvas/6"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolerw_park_bridge.json/sequence/0/canvas/7",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/dolerw_park_bridge_DP01758.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/dolerw_park_bridge_DP01758.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01758.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01758.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01758.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolerw_park_bridge.json/sequence/0/canvas/7"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolerw_park_bridge.json/sequence/0/canvas/8",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/dolerw_park_bridge_DP01759.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/dolerw_park_bridge_DP01759.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01759.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01759.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01759.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolerw_park_bridge.json/sequence/0/canvas/8"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolerw_park_bridge.json/sequence/0/canvas/9",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/dolerw_park_bridge_DP01760.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/dolerw_park_bridge_DP01760.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01760.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01760.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01760.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolerw_park_bridge.json/sequence/0/canvas/9"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolerw_park_bridge.json/sequence/0/canvas/10",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/dolerw_park_bridge_DP01761.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/dolerw_park_bridge_DP01761.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01761.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01761.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01761.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolerw_park_bridge.json/sequence/0/canvas/10"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolerw_park_bridge.json/sequence/0/canvas/11",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/dolerw_park_bridge_DP01762.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/dolerw_park_bridge_DP01762.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01762.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01762.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01762.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolerw_park_bridge.json/sequence/0/canvas/11"
-            }
-          ]
-        },
-        {
-          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolerw_park_bridge.json/sequence/0/canvas/12",
-          "@type": "sc:Canvas",
-          "thumbnail": {
-            "@id": "https://dlc.services/thumbs/10/1/dolerw_park_bridge_DP01763.tif/full/full/0/default.jpg",
-            "@type": "dctypes:Image",
-            "service": {
-              "@context": "http://iiif.io/api/image/2/context.json",
-              "@id": "https://dlc.services/thumbs/10/1/dolerw_park_bridge_DP01763.tif",
-              "profile": [
-                "http://iiif.io/api/image/2/level0.json",
-                {
-                  "formats": [
-                    "jpg"
-                  ],
-                  "qualities": [
-                    "color"
-                  ],
-                  "supports": [
-                    "sizeByWhListed"
-                  ]
-                }
-              ],
-              "width": 1024,
-              "height": 744,
-              "sizes": [
-                {
-                  "width": 1024,
-                  "height": 744
-                },
-                {
-                  "width": 400,
-                  "height": 291
-                },
-                {
-                  "width": 200,
-                  "height": 145
-                },
-                {
-                  "width": 100,
-                  "height": 73
-                }
-              ]
-            }
-          },
-          "height": 2550,
-          "width": 3509,
-          "images": [
-            {
-              "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01763.tif/anno",
-              "@type": "oa:Annotation",
-              "motivation": "sc:painting",
-              "resource": {
-                "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01763.tif/full/!2000,2000/0/default.jpg",
-                "@type": "dctypes:Image",
-                "height": 2550,
-                "width": 3509,
-                "service": {
-                  "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01763.tif",
-                  "protocol": "http://iiif.io/api/image",
-                  "height": 2550,
-                  "width": 3509,
-                  "profile": "http://iiif.io/api/image/2/level1.json"
-                }
-              },
-              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolerw_park_bridge.json/sequence/0/canvas/12"
-            }
-          ]
+            "label": "Title",
+            "value": "dolerw_park_bridge"
         }
-      ]
-    }
-  ]
+    ],
+    "sequences": [
+        {
+            "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolerw_park_bridge.json/sequence/0",
+            "@type": "sc:Sequence",
+            "canvases": [
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolerw_park_bridge.json/sequence/0/canvas/1",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01752.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolerw_park_bridge.json/sequence/0/canvas/1",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01752.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01752.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP01752.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/dolerw_park_bridge_DP01752.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/dolerw_park_bridge_DP01752.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolerw_park_bridge.json/sequence/0/canvas/2",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01753.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolerw_park_bridge.json/sequence/0/canvas/2",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01753.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01753.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP01753.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/dolerw_park_bridge_DP01753.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/dolerw_park_bridge_DP01753.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolerw_park_bridge.json/sequence/0/canvas/3",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01754.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolerw_park_bridge.json/sequence/0/canvas/3",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01754.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01754.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP01754.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/dolerw_park_bridge_DP01754.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/dolerw_park_bridge_DP01754.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolerw_park_bridge.json/sequence/0/canvas/4",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01755.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolerw_park_bridge.json/sequence/0/canvas/4",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01755.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01755.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP01755.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/dolerw_park_bridge_DP01755.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/dolerw_park_bridge_DP01755.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolerw_park_bridge.json/sequence/0/canvas/5",
+                    "@type": "sc:Canvas",
+                    "height": 3509,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01756.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolerw_park_bridge.json/sequence/0/canvas/5",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01756.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 3509,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01756.tif",
+                                    "height": 3509,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 2550
+                                },
+                                "width": 2550
+                            }
+                        }
+                    ],
+                    "label": "DP01756.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/dolerw_park_bridge_DP01756.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/dolerw_park_bridge_DP01756.tif",
+                            "height": 1024,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 1024,
+                                    "width": 744
+                                },
+                                {
+                                    "height": 400,
+                                    "width": 291
+                                },
+                                {
+                                    "height": 200,
+                                    "width": 145
+                                },
+                                {
+                                    "height": 100,
+                                    "width": 73
+                                }
+                            ],
+                            "width": 744
+                        }
+                    },
+                    "width": 2550
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolerw_park_bridge.json/sequence/0/canvas/6",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01757.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolerw_park_bridge.json/sequence/0/canvas/6",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01757.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01757.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP01757.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/dolerw_park_bridge_DP01757.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/dolerw_park_bridge_DP01757.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolerw_park_bridge.json/sequence/0/canvas/7",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01758.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolerw_park_bridge.json/sequence/0/canvas/7",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01758.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01758.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP01758.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/dolerw_park_bridge_DP01758.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/dolerw_park_bridge_DP01758.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolerw_park_bridge.json/sequence/0/canvas/8",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01759.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolerw_park_bridge.json/sequence/0/canvas/8",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01759.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01759.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP01759.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/dolerw_park_bridge_DP01759.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/dolerw_park_bridge_DP01759.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolerw_park_bridge.json/sequence/0/canvas/9",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01760.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolerw_park_bridge.json/sequence/0/canvas/9",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01760.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01760.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP01760.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/dolerw_park_bridge_DP01760.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/dolerw_park_bridge_DP01760.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolerw_park_bridge.json/sequence/0/canvas/10",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01761.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolerw_park_bridge.json/sequence/0/canvas/10",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01761.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01761.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP01761.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/dolerw_park_bridge_DP01761.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/dolerw_park_bridge_DP01761.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolerw_park_bridge.json/sequence/0/canvas/11",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01762.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolerw_park_bridge.json/sequence/0/canvas/11",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01762.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01762.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP01762.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/dolerw_park_bridge_DP01762.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/dolerw_park_bridge_DP01762.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                },
+                {
+                    "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolerw_park_bridge.json/sequence/0/canvas/12",
+                    "@type": "sc:Canvas",
+                    "height": 2550,
+                    "images": [
+                        {
+                            "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01763.tif/anno",
+                            "@type": "oa:Annotation",
+                            "motivation": "sc:painting",
+                            "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolerw_park_bridge.json/sequence/0/canvas/12",
+                            "resource": {
+                                "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01763.tif/full/!2000,2000/0/default.jpg",
+                                "@type": "dctypes:Image",
+                                "height": 2550,
+                                "service": {
+                                    "@id": "https://dlc.services/iiif-img/10/1/dolerw_park_bridge_DP01763.tif",
+                                    "height": 2550,
+                                    "profile": "http://iiif.io/api/image/2/level1.json",
+                                    "protocol": "http://iiif.io/api/image",
+                                    "width": 3509
+                                },
+                                "width": 3509
+                            }
+                        }
+                    ],
+                    "label": "DP01763.tif",
+                    "thumbnail": {
+                        "@id": "https://dlc.services/thumbs/10/1/dolerw_park_bridge_DP01763.tif/full/full/0/default.jpg",
+                        "@type": "dctypes:Image",
+                        "service": {
+                            "@context": "http://iiif.io/api/image/2/context.json",
+                            "@id": "https://dlc.services/thumbs/10/1/dolerw_park_bridge_DP01763.tif",
+                            "height": 744,
+                            "profile": [
+                                "http://iiif.io/api/image/2/level0.json",
+                                {
+                                    "formats": [
+                                        "jpg"
+                                    ],
+                                    "qualities": [
+                                        "color"
+                                    ],
+                                    "supports": [
+                                        "sizeByWhListed"
+                                    ]
+                                }
+                            ],
+                            "sizes": [
+                                {
+                                    "height": 744,
+                                    "width": 1024
+                                },
+                                {
+                                    "height": 291,
+                                    "width": 400
+                                },
+                                {
+                                    "height": 145,
+                                    "width": 200
+                                },
+                                {
+                                    "height": 73,
+                                    "width": 100
+                                }
+                            ],
+                            "width": 1024
+                        }
+                    },
+                    "width": 3509
+                }
+            ],
+            "label": "Sequence 0"
+        }
+    ]
 }
