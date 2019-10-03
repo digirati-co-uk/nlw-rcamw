@@ -1,0 +1,1538 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://digirati-co-uk.github.io/nlw-rcamw/old_church_st.json",
+  "@type": "sc:Manifest",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "Created by DLCS"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://digirati-co-uk.github.io/nlw-rcamw/old_church_st.json/sequence/0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "canvases": [
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/old_church_st.json/sequence/0/canvas/1",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/old_church_st_DP03545.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/old_church_st_DP03545.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03545.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03545.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03545.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/old_church_st.json/sequence/0/canvas/1"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/old_church_st.json/sequence/0/canvas/2",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/old_church_st_DP03546.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/old_church_st_DP03546.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03546.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03546.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03546.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/old_church_st.json/sequence/0/canvas/2"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/old_church_st.json/sequence/0/canvas/3",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/old_church_st_DP03547.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/old_church_st_DP03547.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03547.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03547.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03547.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/old_church_st.json/sequence/0/canvas/3"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/old_church_st.json/sequence/0/canvas/4",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/old_church_st_DP03548.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/old_church_st_DP03548.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03548.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03548.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03548.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/old_church_st.json/sequence/0/canvas/4"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/old_church_st.json/sequence/0/canvas/5",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/old_church_st_DP03549.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/old_church_st_DP03549.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03549.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03549.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03549.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/old_church_st.json/sequence/0/canvas/5"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/old_church_st.json/sequence/0/canvas/6",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/old_church_st_DP03550.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/old_church_st_DP03550.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03550.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03550.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03550.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/old_church_st.json/sequence/0/canvas/6"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/old_church_st.json/sequence/0/canvas/7",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/old_church_st_DP03551.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/old_church_st_DP03551.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 744,
+              "height": 1024,
+              "sizes": [
+                {
+                  "width": 744,
+                  "height": 1024
+                },
+                {
+                  "width": 291,
+                  "height": 400
+                },
+                {
+                  "width": 145,
+                  "height": 200
+                },
+                {
+                  "width": 73,
+                  "height": 100
+                }
+              ]
+            }
+          },
+          "height": 3509,
+          "width": 2550,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03551.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03551.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 3509,
+                "width": 2550,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03551.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3509,
+                  "width": 2550,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/old_church_st.json/sequence/0/canvas/7"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/old_church_st.json/sequence/0/canvas/8",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/old_church_st_DP03552.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/old_church_st_DP03552.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03552.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03552.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03552.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/old_church_st.json/sequence/0/canvas/8"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/old_church_st.json/sequence/0/canvas/9",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/old_church_st_DP03553.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/old_church_st_DP03553.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03553.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03553.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03553.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/old_church_st.json/sequence/0/canvas/9"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/old_church_st.json/sequence/0/canvas/10",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/old_church_st_DP03554.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/old_church_st_DP03554.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03554.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03554.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03554.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/old_church_st.json/sequence/0/canvas/10"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/old_church_st.json/sequence/0/canvas/11",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/old_church_st_DP03555.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/old_church_st_DP03555.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03555.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03555.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03555.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/old_church_st.json/sequence/0/canvas/11"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/old_church_st.json/sequence/0/canvas/12",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/old_church_st_DP03556.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/old_church_st_DP03556.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 744,
+              "height": 1024,
+              "sizes": [
+                {
+                  "width": 744,
+                  "height": 1024
+                },
+                {
+                  "width": 291,
+                  "height": 400
+                },
+                {
+                  "width": 145,
+                  "height": 200
+                },
+                {
+                  "width": 73,
+                  "height": 100
+                }
+              ]
+            }
+          },
+          "height": 3509,
+          "width": 2550,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03556.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03556.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 3509,
+                "width": 2550,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03556.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3509,
+                  "width": 2550,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/old_church_st.json/sequence/0/canvas/12"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/old_church_st.json/sequence/0/canvas/13",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/old_church_st_DP03557.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/old_church_st_DP03557.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03557.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03557.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03557.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/old_church_st.json/sequence/0/canvas/13"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/old_church_st.json/sequence/0/canvas/14",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/old_church_st_DP03558.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/old_church_st_DP03558.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03558.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03558.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03558.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/old_church_st.json/sequence/0/canvas/14"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/old_church_st.json/sequence/0/canvas/15",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/old_church_st_DP03559.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/old_church_st_DP03559.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 744,
+              "height": 1024,
+              "sizes": [
+                {
+                  "width": 744,
+                  "height": 1024
+                },
+                {
+                  "width": 291,
+                  "height": 400
+                },
+                {
+                  "width": 145,
+                  "height": 200
+                },
+                {
+                  "width": 73,
+                  "height": 100
+                }
+              ]
+            }
+          },
+          "height": 3509,
+          "width": 2550,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03559.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03559.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 3509,
+                "width": 2550,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03559.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3509,
+                  "width": 2550,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/old_church_st.json/sequence/0/canvas/15"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/old_church_st.json/sequence/0/canvas/16",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/old_church_st_DP03560.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/old_church_st_DP03560.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 744,
+              "height": 1024,
+              "sizes": [
+                {
+                  "width": 744,
+                  "height": 1024
+                },
+                {
+                  "width": 291,
+                  "height": 400
+                },
+                {
+                  "width": 145,
+                  "height": 200
+                },
+                {
+                  "width": 73,
+                  "height": 100
+                }
+              ]
+            }
+          },
+          "height": 3509,
+          "width": 2550,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03560.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03560.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 3509,
+                "width": 2550,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03560.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3509,
+                  "width": 2550,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/old_church_st.json/sequence/0/canvas/16"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/old_church_st.json/sequence/0/canvas/17",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/old_church_st_DP03561.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/old_church_st_DP03561.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 744,
+              "height": 1024,
+              "sizes": [
+                {
+                  "width": 744,
+                  "height": 1024
+                },
+                {
+                  "width": 291,
+                  "height": 400
+                },
+                {
+                  "width": 145,
+                  "height": 200
+                },
+                {
+                  "width": 73,
+                  "height": 100
+                }
+              ]
+            }
+          },
+          "height": 3509,
+          "width": 2550,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03561.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03561.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 3509,
+                "width": 2550,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03561.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3509,
+                  "width": 2550,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/old_church_st.json/sequence/0/canvas/17"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/old_church_st.json/sequence/0/canvas/18",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/old_church_st_DP03562.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/old_church_st_DP03562.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 744,
+              "height": 1024,
+              "sizes": [
+                {
+                  "width": 744,
+                  "height": 1024
+                },
+                {
+                  "width": 291,
+                  "height": 400
+                },
+                {
+                  "width": 145,
+                  "height": 200
+                },
+                {
+                  "width": 73,
+                  "height": 100
+                }
+              ]
+            }
+          },
+          "height": 3509,
+          "width": 2550,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03562.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03562.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 3509,
+                "width": 2550,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03562.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3509,
+                  "width": 2550,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/old_church_st.json/sequence/0/canvas/18"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/old_church_st.json/sequence/0/canvas/19",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/old_church_st_DP03563.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/old_church_st_DP03563.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03563.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03563.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03563.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/old_church_st.json/sequence/0/canvas/19"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/old_church_st.json/sequence/0/canvas/20",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/old_church_st_DP03564.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/old_church_st_DP03564.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03564.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03564.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03564.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/old_church_st.json/sequence/0/canvas/20"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/old_church_st.json/sequence/0/canvas/21",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/old_church_st_DP03565.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/old_church_st_DP03565.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 744,
+              "height": 1024,
+              "sizes": [
+                {
+                  "width": 744,
+                  "height": 1024
+                },
+                {
+                  "width": 291,
+                  "height": 400
+                },
+                {
+                  "width": 145,
+                  "height": 200
+                },
+                {
+                  "width": 73,
+                  "height": 100
+                }
+              ]
+            }
+          },
+          "height": 3509,
+          "width": 2550,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03565.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03565.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 3509,
+                "width": 2550,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03565.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3509,
+                  "width": 2550,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/old_church_st.json/sequence/0/canvas/21"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/old_church_st.json/sequence/0/canvas/22",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/old_church_st_DP03566.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/old_church_st_DP03566.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 744,
+              "height": 1024,
+              "sizes": [
+                {
+                  "width": 744,
+                  "height": 1024
+                },
+                {
+                  "width": 291,
+                  "height": 400
+                },
+                {
+                  "width": 145,
+                  "height": 200
+                },
+                {
+                  "width": 73,
+                  "height": 100
+                }
+              ]
+            }
+          },
+          "height": 3509,
+          "width": 2550,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03566.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03566.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 3509,
+                "width": 2550,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/old_church_st_DP03566.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3509,
+                  "width": 2550,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/old_church_st.json/sequence/0/canvas/22"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

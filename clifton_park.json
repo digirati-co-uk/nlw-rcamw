@@ -1,0 +1,2573 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json",
+  "@type": "sc:Manifest",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "Created by DLCS"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "canvases": [
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/1",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01427.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01427.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01427.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01427.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01427.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/1"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/2",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01428.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01428.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01428.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01428.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01428.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/2"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/3",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01429.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01429.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 744,
+              "height": 1024,
+              "sizes": [
+                {
+                  "width": 744,
+                  "height": 1024
+                },
+                {
+                  "width": 291,
+                  "height": 400
+                },
+                {
+                  "width": 145,
+                  "height": 200
+                },
+                {
+                  "width": 73,
+                  "height": 100
+                }
+              ]
+            }
+          },
+          "height": 3509,
+          "width": 2550,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01429.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01429.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 3509,
+                "width": 2550,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01429.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3509,
+                  "width": 2550,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/3"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/4",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01430.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01430.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 744,
+              "height": 1024,
+              "sizes": [
+                {
+                  "width": 744,
+                  "height": 1024
+                },
+                {
+                  "width": 291,
+                  "height": 400
+                },
+                {
+                  "width": 145,
+                  "height": 200
+                },
+                {
+                  "width": 73,
+                  "height": 100
+                }
+              ]
+            }
+          },
+          "height": 3509,
+          "width": 2550,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01430.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01430.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 3509,
+                "width": 2550,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01430.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3509,
+                  "width": 2550,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/4"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/5",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01431.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01431.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01431.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01431.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01431.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/5"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/6",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01432.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01432.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01432.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01432.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01432.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/6"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/7",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01433.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01433.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01433.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01433.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01433.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/7"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/8",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01434.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01434.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01434.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01434.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01434.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/8"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/9",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01435.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01435.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01435.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01435.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01435.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/9"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/10",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01436.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01436.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01436.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01436.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01436.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/10"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/11",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01437.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01437.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01437.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01437.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01437.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/11"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/12",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01438.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01438.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01438.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01438.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01438.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/12"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/13",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01439.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01439.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01439.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01439.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01439.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/13"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/14",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01440.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01440.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01440.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01440.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01440.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/14"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/15",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01441.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01441.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 744,
+              "height": 1024,
+              "sizes": [
+                {
+                  "width": 744,
+                  "height": 1024
+                },
+                {
+                  "width": 291,
+                  "height": 400
+                },
+                {
+                  "width": 145,
+                  "height": 200
+                },
+                {
+                  "width": 73,
+                  "height": 100
+                }
+              ]
+            }
+          },
+          "height": 3509,
+          "width": 2550,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01441.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01441.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 3509,
+                "width": 2550,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01441.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3509,
+                  "width": 2550,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/15"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/16",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01442.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01442.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 744,
+              "height": 1024,
+              "sizes": [
+                {
+                  "width": 744,
+                  "height": 1024
+                },
+                {
+                  "width": 291,
+                  "height": 400
+                },
+                {
+                  "width": 145,
+                  "height": 200
+                },
+                {
+                  "width": 73,
+                  "height": 100
+                }
+              ]
+            }
+          },
+          "height": 3509,
+          "width": 2550,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01442.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01442.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 3509,
+                "width": 2550,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01442.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3509,
+                  "width": 2550,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/16"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/17",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01443.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01443.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01443.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01443.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01443.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/17"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/18",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01444.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01444.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01444.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01444.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01444.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/18"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/19",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01445.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01445.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01445.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01445.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01445.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/19"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/20",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01446.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01446.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01446.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01446.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01446.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/20"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/21",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01447.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01447.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 744,
+              "height": 1024,
+              "sizes": [
+                {
+                  "width": 744,
+                  "height": 1024
+                },
+                {
+                  "width": 291,
+                  "height": 400
+                },
+                {
+                  "width": 145,
+                  "height": 200
+                },
+                {
+                  "width": 73,
+                  "height": 100
+                }
+              ]
+            }
+          },
+          "height": 3509,
+          "width": 2550,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01447.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01447.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 3509,
+                "width": 2550,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01447.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3509,
+                  "width": 2550,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/21"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/22",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01448.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01448.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 744,
+              "height": 1024,
+              "sizes": [
+                {
+                  "width": 744,
+                  "height": 1024
+                },
+                {
+                  "width": 291,
+                  "height": 400
+                },
+                {
+                  "width": 145,
+                  "height": 200
+                },
+                {
+                  "width": 73,
+                  "height": 100
+                }
+              ]
+            }
+          },
+          "height": 3509,
+          "width": 2550,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01448.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01448.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 3509,
+                "width": 2550,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01448.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3509,
+                  "width": 2550,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/22"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/23",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01449.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01449.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 744,
+              "height": 1024,
+              "sizes": [
+                {
+                  "width": 744,
+                  "height": 1024
+                },
+                {
+                  "width": 291,
+                  "height": 400
+                },
+                {
+                  "width": 145,
+                  "height": 200
+                },
+                {
+                  "width": 73,
+                  "height": 100
+                }
+              ]
+            }
+          },
+          "height": 3509,
+          "width": 2550,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01449.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01449.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 3509,
+                "width": 2550,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01449.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3509,
+                  "width": 2550,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/23"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/24",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01450.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01450.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 744,
+              "height": 1024,
+              "sizes": [
+                {
+                  "width": 744,
+                  "height": 1024
+                },
+                {
+                  "width": 291,
+                  "height": 400
+                },
+                {
+                  "width": 145,
+                  "height": 200
+                },
+                {
+                  "width": 73,
+                  "height": 100
+                }
+              ]
+            }
+          },
+          "height": 3509,
+          "width": 2550,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01450.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01450.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 3509,
+                "width": 2550,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01450.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3509,
+                  "width": 2550,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/24"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/25",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01451.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01451.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 744,
+              "height": 1024,
+              "sizes": [
+                {
+                  "width": 744,
+                  "height": 1024
+                },
+                {
+                  "width": 291,
+                  "height": 400
+                },
+                {
+                  "width": 145,
+                  "height": 200
+                },
+                {
+                  "width": 73,
+                  "height": 100
+                }
+              ]
+            }
+          },
+          "height": 3509,
+          "width": 2550,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01451.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01451.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 3509,
+                "width": 2550,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01451.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3509,
+                  "width": 2550,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/25"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/26",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01452.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01452.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01452.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01452.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01452.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/26"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/27",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01453.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01453.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 744,
+              "height": 1024,
+              "sizes": [
+                {
+                  "width": 744,
+                  "height": 1024
+                },
+                {
+                  "width": 291,
+                  "height": 400
+                },
+                {
+                  "width": 145,
+                  "height": 200
+                },
+                {
+                  "width": 73,
+                  "height": 100
+                }
+              ]
+            }
+          },
+          "height": 3509,
+          "width": 2550,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01453.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01453.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 3509,
+                "width": 2550,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01453.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3509,
+                  "width": 2550,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/27"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/28",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01454.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01454.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 744,
+              "height": 1024,
+              "sizes": [
+                {
+                  "width": 744,
+                  "height": 1024
+                },
+                {
+                  "width": 291,
+                  "height": 400
+                },
+                {
+                  "width": 145,
+                  "height": 200
+                },
+                {
+                  "width": 73,
+                  "height": 100
+                }
+              ]
+            }
+          },
+          "height": 3509,
+          "width": 2550,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01454.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01454.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 3509,
+                "width": 2550,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01454.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3509,
+                  "width": 2550,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/28"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/29",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01455.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01455.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 744,
+              "height": 1024,
+              "sizes": [
+                {
+                  "width": 744,
+                  "height": 1024
+                },
+                {
+                  "width": 291,
+                  "height": 400
+                },
+                {
+                  "width": 145,
+                  "height": 200
+                },
+                {
+                  "width": 73,
+                  "height": 100
+                }
+              ]
+            }
+          },
+          "height": 3509,
+          "width": 2550,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01455.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01455.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 3509,
+                "width": 2550,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01455.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3509,
+                  "width": 2550,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/29"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/30",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01456.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01456.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01456.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01456.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01456.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/30"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/31",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01457.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01457.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01457.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01457.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01457.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/31"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/32",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01458.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01458.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01458.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01458.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01458.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/32"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/33",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01459.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01459.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 744,
+              "height": 1024,
+              "sizes": [
+                {
+                  "width": 744,
+                  "height": 1024
+                },
+                {
+                  "width": 291,
+                  "height": 400
+                },
+                {
+                  "width": 145,
+                  "height": 200
+                },
+                {
+                  "width": 73,
+                  "height": 100
+                }
+              ]
+            }
+          },
+          "height": 3509,
+          "width": 2550,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01459.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01459.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 3509,
+                "width": 2550,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01459.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3509,
+                  "width": 2550,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/33"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/34",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01460.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01460.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 744,
+              "height": 1024,
+              "sizes": [
+                {
+                  "width": 744,
+                  "height": 1024
+                },
+                {
+                  "width": 291,
+                  "height": 400
+                },
+                {
+                  "width": 145,
+                  "height": 200
+                },
+                {
+                  "width": 73,
+                  "height": 100
+                }
+              ]
+            }
+          },
+          "height": 3509,
+          "width": 2550,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01460.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01460.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 3509,
+                "width": 2550,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01460.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3509,
+                  "width": 2550,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/34"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/35",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01461.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01461.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01461.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01461.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01461.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/35"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/36",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01462.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01462.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01462.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01462.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01462.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/36"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/37",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01463.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/clifton_park_DP01463.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01463.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01463.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/clifton_park_DP01463.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/clifton_park.json/sequence/0/canvas/37"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

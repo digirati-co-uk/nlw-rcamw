@@ -1,0 +1,4160 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json",
+  "@type": "sc:Manifest",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "Created by DLCS"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "canvases": [
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/1",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01764.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01764.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01764.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01764.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01764.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/1"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/2",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01765.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01765.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01765.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01765.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01765.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/2"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/3",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01766.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01766.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01766.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01766.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01766.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/3"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/4",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01767.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01767.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01767.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01767.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01767.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/4"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/5",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01768.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01768.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01768.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01768.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01768.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/5"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/6",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01769.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01769.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01769.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01769.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01769.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/6"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/7",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01770.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01770.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01770.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01770.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01770.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/7"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/8",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01771.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01771.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01771.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01771.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01771.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/8"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/9",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01772.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01772.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01772.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01772.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01772.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/9"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/10",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01773.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01773.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01773.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01773.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01773.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/10"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/11",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01774.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01774.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01774.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01774.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01774.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/11"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/12",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01775.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01775.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01775.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01775.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01775.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/12"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/13",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01776.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01776.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01776.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01776.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01776.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/13"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/14",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01777.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01777.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01777.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01777.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01777.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/14"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/15",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01778.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01778.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01778.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01778.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01778.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/15"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/16",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01779.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01779.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01779.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01779.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01779.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/16"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/17",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01780.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01780.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01780.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01780.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01780.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/17"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/18",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01781.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01781.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01781.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01781.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01781.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/18"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/19",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01782.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01782.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01782.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01782.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01782.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/19"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/20",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01783.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01783.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01783.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01783.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01783.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/20"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/21",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01784.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01784.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01784.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01784.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01784.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/21"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/22",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01785.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01785.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01785.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01785.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01785.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/22"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/23",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01786.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01786.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01786.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01786.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01786.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/23"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/24",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01787.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01787.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01787.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01787.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01787.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/24"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/25",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01788.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01788.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01788.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01788.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01788.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/25"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/26",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01789.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01789.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01789.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01789.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01789.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/26"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/27",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01790.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01790.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01790.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01790.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01790.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/27"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/28",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01791.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01791.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01791.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01791.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01791.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/28"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/29",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01792.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01792.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01792.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01792.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01792.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/29"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/30",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01793.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01793.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01793.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01793.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01793.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/30"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/31",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01794.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01794.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01794.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01794.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01794.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/31"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/32",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01795.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01795.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01795.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01795.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01795.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/32"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/33",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01796.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01796.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 744,
+              "height": 1024,
+              "sizes": [
+                {
+                  "width": 744,
+                  "height": 1024
+                },
+                {
+                  "width": 291,
+                  "height": 400
+                },
+                {
+                  "width": 145,
+                  "height": 200
+                },
+                {
+                  "width": 73,
+                  "height": 100
+                }
+              ]
+            }
+          },
+          "height": 3509,
+          "width": 2550,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01796.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01796.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 3509,
+                "width": 2550,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01796.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3509,
+                  "width": 2550,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/33"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/34",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01797.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01797.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01797.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01797.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01797.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/34"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/35",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01798.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01798.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01798.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01798.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01798.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/35"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/36",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01799.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01799.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01799.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01799.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01799.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/36"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/37",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01800.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01800.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01800.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01800.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01800.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/37"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/38",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01801.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01801.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01801.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01801.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01801.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/38"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/39",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01802.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01802.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01802.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01802.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01802.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/39"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/40",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01803.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01803.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01803.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01803.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01803.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/40"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/41",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01804.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01804.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01804.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01804.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01804.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/41"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/42",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01805.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01805.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01805.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01805.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01805.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/42"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/43",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01806.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01806.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01806.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01806.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01806.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/43"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/44",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01807.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01807.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01807.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01807.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01807.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/44"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/45",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01808.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01808.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01808.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01808.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01808.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/45"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/46",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01809.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01809.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01809.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01809.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01809.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/46"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/47",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01810.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01810.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01810.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01810.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01810.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/47"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/48",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01811.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01811.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01811.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01811.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01811.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/48"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/49",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01812.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01812.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01812.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01812.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01812.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/49"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/50",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01813.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01813.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01813.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01813.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01813.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/50"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/51",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01814.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01814.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01814.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01814.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01814.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/51"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/52",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01815.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01815.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01815.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01815.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01815.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/52"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/53",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01816.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01816.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01816.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01816.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01816.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/53"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/54",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01817.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01817.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01817.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01817.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01817.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/54"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/55",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01818.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01818.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01818.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01818.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01818.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/55"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/56",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01819.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01819.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01819.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01819.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01819.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/56"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/57",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_Dp01820.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_Dp01820.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_Dp01820.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_Dp01820.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_Dp01820.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/57"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/58",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01821.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01821.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01821.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01821.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01821.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/58"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/59",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01822.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01822.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01822.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01822.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01822.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/59"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/60",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01823.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/dolfor_rd_DP01823.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01823.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01823.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/dolfor_rd_DP01823.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/dolfor_rd.json/sequence/0/canvas/60"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

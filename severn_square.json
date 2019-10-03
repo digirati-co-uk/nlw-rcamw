@@ -1,0 +1,2918 @@
+{
+  "@context": "http://iiif.io/api/presentation/2/context.json",
+  "@id": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json",
+  "@type": "sc:Manifest",
+  "metadata": [
+    {
+      "label": "Title",
+      "value": "Created by DLCS"
+    }
+  ],
+  "sequences": [
+    {
+      "@id": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0",
+      "@type": "sc:Sequence",
+      "label": "Sequence 0",
+      "canvases": [
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/1",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04024.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04024.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04024.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04024.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04024.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/1"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/2",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04025.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04025.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04025.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04025.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04025.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/2"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/3",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04026.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04026.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04026.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04026.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04026.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/3"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/4",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04027.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04027.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 744,
+              "height": 1024,
+              "sizes": [
+                {
+                  "width": 744,
+                  "height": 1024
+                },
+                {
+                  "width": 291,
+                  "height": 400
+                },
+                {
+                  "width": 145,
+                  "height": 200
+                },
+                {
+                  "width": 73,
+                  "height": 100
+                }
+              ]
+            }
+          },
+          "height": 3509,
+          "width": 2550,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04027.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04027.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 3509,
+                "width": 2550,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04027.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3509,
+                  "width": 2550,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/4"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/5",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04028.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04028.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 744,
+              "height": 1024,
+              "sizes": [
+                {
+                  "width": 744,
+                  "height": 1024
+                },
+                {
+                  "width": 291,
+                  "height": 400
+                },
+                {
+                  "width": 145,
+                  "height": 200
+                },
+                {
+                  "width": 73,
+                  "height": 100
+                }
+              ]
+            }
+          },
+          "height": 3509,
+          "width": 2550,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04028.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04028.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 3509,
+                "width": 2550,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04028.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3509,
+                  "width": 2550,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/5"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/6",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04029.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04029.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04029.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04029.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04029.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/6"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/7",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04030.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04030.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04030.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04030.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04030.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/7"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/8",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04031.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04031.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04031.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04031.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04031.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/8"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/9",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04032.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04032.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04032.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04032.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04032.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/9"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/10",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04033.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04033.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 744,
+              "height": 1024,
+              "sizes": [
+                {
+                  "width": 744,
+                  "height": 1024
+                },
+                {
+                  "width": 291,
+                  "height": 400
+                },
+                {
+                  "width": 145,
+                  "height": 200
+                },
+                {
+                  "width": 73,
+                  "height": 100
+                }
+              ]
+            }
+          },
+          "height": 3509,
+          "width": 2550,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04033.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04033.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 3509,
+                "width": 2550,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04033.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3509,
+                  "width": 2550,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/10"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/11",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04034.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04034.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 744,
+              "height": 1024,
+              "sizes": [
+                {
+                  "width": 744,
+                  "height": 1024
+                },
+                {
+                  "width": 291,
+                  "height": 400
+                },
+                {
+                  "width": 145,
+                  "height": 200
+                },
+                {
+                  "width": 73,
+                  "height": 100
+                }
+              ]
+            }
+          },
+          "height": 3509,
+          "width": 2550,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04034.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04034.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 3509,
+                "width": 2550,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04034.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3509,
+                  "width": 2550,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/11"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/12",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04035.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04035.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04035.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04035.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04035.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/12"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/13",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04036.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04036.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04036.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04036.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04036.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/13"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/14",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04037.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04037.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04037.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04037.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04037.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/14"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/15",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04038.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04038.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04038.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04038.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04038.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/15"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/16",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04039.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04039.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04039.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04039.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04039.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/16"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/17",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04040.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04040.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04040.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04040.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04040.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/17"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/18",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04041.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04041.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04041.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04041.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04041.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/18"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/19",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04042.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04042.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 744,
+              "height": 1024,
+              "sizes": [
+                {
+                  "width": 744,
+                  "height": 1024
+                },
+                {
+                  "width": 291,
+                  "height": 400
+                },
+                {
+                  "width": 145,
+                  "height": 200
+                },
+                {
+                  "width": 73,
+                  "height": 100
+                }
+              ]
+            }
+          },
+          "height": 3509,
+          "width": 2550,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04042.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04042.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 3509,
+                "width": 2550,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04042.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3509,
+                  "width": 2550,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/19"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/20",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04043.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04043.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 744,
+              "height": 1024,
+              "sizes": [
+                {
+                  "width": 744,
+                  "height": 1024
+                },
+                {
+                  "width": 291,
+                  "height": 400
+                },
+                {
+                  "width": 145,
+                  "height": 200
+                },
+                {
+                  "width": 73,
+                  "height": 100
+                }
+              ]
+            }
+          },
+          "height": 3509,
+          "width": 2550,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04043.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04043.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 3509,
+                "width": 2550,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04043.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3509,
+                  "width": 2550,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/20"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/21",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04044.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04044.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 744,
+              "height": 1024,
+              "sizes": [
+                {
+                  "width": 744,
+                  "height": 1024
+                },
+                {
+                  "width": 291,
+                  "height": 400
+                },
+                {
+                  "width": 145,
+                  "height": 200
+                },
+                {
+                  "width": 73,
+                  "height": 100
+                }
+              ]
+            }
+          },
+          "height": 3509,
+          "width": 2550,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04044.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04044.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 3509,
+                "width": 2550,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04044.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3509,
+                  "width": 2550,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/21"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/22",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04045.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04045.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04045.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04045.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04045.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/22"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/23",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04046.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04046.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04046.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04046.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04046.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/23"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/24",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04047.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04047.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04047.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04047.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04047.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/24"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/25",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04048.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04048.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04048.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04048.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04048.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/25"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/26",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04049.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04049.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04049.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04049.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04049.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/26"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/27",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04050.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04050.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04050.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04050.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04050.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/27"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/28",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04051.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04051.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04051.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04051.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04051.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/28"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/29",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04052.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04052.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04052.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04052.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04052.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/29"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/30",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04053.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04053.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04053.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04053.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04053.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/30"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/31",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04054.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04054.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04054.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04054.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04054.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/31"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/32",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04055.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04055.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04055.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04055.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04055.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/32"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/33",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04056.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04056.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04056.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04056.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04056.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/33"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/34",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04057.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04057.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 744,
+              "height": 1024,
+              "sizes": [
+                {
+                  "width": 744,
+                  "height": 1024
+                },
+                {
+                  "width": 291,
+                  "height": 400
+                },
+                {
+                  "width": 145,
+                  "height": 200
+                },
+                {
+                  "width": 73,
+                  "height": 100
+                }
+              ]
+            }
+          },
+          "height": 3509,
+          "width": 2550,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04057.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04057.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 3509,
+                "width": 2550,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04057.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3509,
+                  "width": 2550,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/34"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/35",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04058.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04058.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04058.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04058.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04058.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/35"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/36",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04059.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04059.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04059.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04059.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04059.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/36"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/37",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04060.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04060.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04060.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04060.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04060.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/37"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/38",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04061.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04061.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 744,
+              "height": 1024,
+              "sizes": [
+                {
+                  "width": 744,
+                  "height": 1024
+                },
+                {
+                  "width": 291,
+                  "height": 400
+                },
+                {
+                  "width": 145,
+                  "height": 200
+                },
+                {
+                  "width": 73,
+                  "height": 100
+                }
+              ]
+            }
+          },
+          "height": 3509,
+          "width": 2550,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04061.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04061.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 3509,
+                "width": 2550,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04061.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3509,
+                  "width": 2550,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/38"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/39",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04062.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04062.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04062.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04062.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04062.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/39"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/40",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04063.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04063.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04063.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04063.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04063.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/40"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/41",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04064.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04064.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 1024,
+              "height": 744,
+              "sizes": [
+                {
+                  "width": 1024,
+                  "height": 744
+                },
+                {
+                  "width": 400,
+                  "height": 291
+                },
+                {
+                  "width": 200,
+                  "height": 145
+                },
+                {
+                  "width": 100,
+                  "height": 73
+                }
+              ]
+            }
+          },
+          "height": 2550,
+          "width": 3509,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04064.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04064.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 2550,
+                "width": 3509,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04064.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 2550,
+                  "width": 3509,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/41"
+            }
+          ]
+        },
+        {
+          "@id": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/42",
+          "@type": "sc:Canvas",
+          "thumbnail": {
+            "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04065.tif/full/full/0/default.jpg",
+            "@type": "dctypes:Image",
+            "service": {
+              "@context": "http://iiif.io/api/image/2/context.json",
+              "@id": "https://dlc.services/thumbs/10/1/severn_square_DP04065.tif",
+              "profile": [
+                "http://iiif.io/api/image/2/level0.json",
+                {
+                  "formats": [
+                    "jpg"
+                  ],
+                  "qualities": [
+                    "color"
+                  ],
+                  "supports": [
+                    "sizeByWhListed"
+                  ]
+                }
+              ],
+              "width": 744,
+              "height": 1024,
+              "sizes": [
+                {
+                  "width": 744,
+                  "height": 1024
+                },
+                {
+                  "width": 291,
+                  "height": 400
+                },
+                {
+                  "width": 145,
+                  "height": 200
+                },
+                {
+                  "width": 73,
+                  "height": 100
+                }
+              ]
+            }
+          },
+          "height": 3509,
+          "width": 2550,
+          "images": [
+            {
+              "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04065.tif/anno",
+              "@type": "oa:Annotation",
+              "motivation": "sc:painting",
+              "resource": {
+                "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04065.tif/full/!2000,2000/0/default.jpg",
+                "@type": "dctypes:Image",
+                "height": 3509,
+                "width": 2550,
+                "service": {
+                  "@id": "https://dlc.services/iiif-img/10/1/severn_square_DP04065.tif",
+                  "protocol": "http://iiif.io/api/image",
+                  "height": 3509,
+                  "width": 2550,
+                  "profile": "http://iiif.io/api/image/2/level1.json"
+                }
+              },
+              "on": "https://digirati-co-uk.github.io/nlw-rcamw/severn_square.json/sequence/0/canvas/42"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
