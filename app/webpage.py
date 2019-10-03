@@ -11,7 +11,7 @@ filenames = [f for f in listdir(settings.DATA_FOLDER) if isfile(join(settings.DA
 
 for filename in filenames:
     print(filename)
-    if ".json" not in filename:
+    if ".json" not in filename or filename == "index.json":
         print("skipping")
         continue
 
